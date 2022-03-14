@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GGirginGokhan
+- 👀 I’m interested in Embedded Software  area.
+- 🌱 I’m currently learning Embedded Linux 
